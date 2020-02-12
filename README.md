@@ -13,4 +13,5 @@ The approach kmeans follows to solve the problem is called Expectation-Maximizat
 The objective function is:
 
 ## Please visit the following website
+https://towardsdatascience.com/k-means-clustering-algorithm-applications-evaluation-methods-and-drawbacks-aa03e644b48a
 
